@@ -1,6 +1,6 @@
 # construction-site-segmentation
 
-An open dataset for semantic segmentation on construction sites, released by the paper: *Deep Semantic Segmentation for Visual Understanding on Construction Sites*.   
+An open dataset for semantic segmentation on construction sites, released by the paper: *Deep Semantic Segmentation for Visual Understanding on Construction Sites*.
 
 
 
@@ -25,3 +25,6 @@ We acknowledge [LabelMe](https://github.com/wkentaro/labelme) for providing the 
 
 <p align="left"><img width="50%" src="demo/label_viz.png" /></p>
 
+## Reference
+
+- https://doi.org/10.1111/mice.12701
